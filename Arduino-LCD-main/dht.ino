@@ -1,5 +1,6 @@
 #include <dht.h>     
-#define dht_dpin A0 	           //�w�q�T���n�qPin A0 �i��  
+#define dht_dpin A0 	           //DHT 11 類比輸入 PIN A0
+#define dht_dpin A0 	           
 dht DHT;   
 
 String a;
